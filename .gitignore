@@ -11,3 +11,5 @@ desktop.ini
 # Temp / Editor
 .vscode/
 .idea/
+
+.vercel
